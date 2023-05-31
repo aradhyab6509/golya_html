@@ -1,0 +1,38 @@
+.container {
+    /* border: 3px solid #fff;
+    padding: 20px; */
+    display: flex;
+}
+
+.c1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 25px;
+}  
+
+.c2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 25px;
+}
+
+.item{
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.head{
+    text-align: center;
+}
+
+.c3{
+    width: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    padding: 40px;
+    border: 2px solid blueviolet;
+}
